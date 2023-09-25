@@ -1,0 +1,22 @@
+.lista-profesores {
+    padding: 20px;
+  }
+  
+  .profesor-card {
+    height: 100%;
+  }
+  
+  .profesor-imagen {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .profesor-nombre {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .profesor-descripcion {
+    font-size: 16px;
+  }

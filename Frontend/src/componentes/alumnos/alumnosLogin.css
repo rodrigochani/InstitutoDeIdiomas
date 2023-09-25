@@ -1,0 +1,92 @@
+/* Imagengrande */
+
+p {
+    margin: 0;
+  }
+  
+  .imagen-grande {
+    gap: 10px;
+    width: 769px;
+    height: 506px;
+    margin-top: 10px;
+  }
+
+  /* 05 textarea */
+
+@import url("https://fonts.googleapis.com/css2?family=Work Sans:wght@400&display=swap");
+
+p {
+  margin: 0;
+}
+
+._-05-textarea {
+  
+ 
+  
+  
+ margin-left: 50px;
+  margin-top: 20px;  
+  width: 400px;
+  height: 150px;
+  border: 1px solid rgba(26, 41, 61, 0.83);
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+.drag-handle {
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+  width: 18px;
+  height: 18px;
+}
+
+.lorem-ipsum-dolor-sit-am {
+  color: rgba(26, 41, 61, 0.83);
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Work Sans, sans-serif;
+  font-weight: 400;
+}
+.drag-handle2{
+    
+    margin-top: 130px;  
+    width: 400px;
+    height: 50px;
+    border: 1px solid rgba(26, 41, 61, 0.83);
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+.drag-handle3{
+    
+    margin-top: 50px;  
+    width: 400px;
+    height: 50px;
+    border: 1px solid rgba(26, 41, 61, 0.83);
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+.buttonLogin{
+    margin-left: 50px;
+    margin-top: 50px;
+    height: 30%;
+    width: 120px;
+    padding: 10px 18px;
+    border: 1px solid rgba(72, 98, 132, 1);
+    border-radius: 50px;
+    box-sizing: border-box;
+    background-color:rgba(217, 217, 217, 1);
+}
+
+.buttonLogin2{
+    margin-left: 50px;
+    margin-top: 50px;
+    height: 30%;
+    width: 120px;
+    padding: 10px 18px;
+    border: 1px solid rgba(72, 98, 132, 1);
+    border-radius: 50px;
+    box-sizing: border-box;
+    background-color:rgba(72, 98, 132, 1);
+}

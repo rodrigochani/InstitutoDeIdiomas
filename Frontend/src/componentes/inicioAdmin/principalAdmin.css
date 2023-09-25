@@ -1,0 +1,12 @@
+/* Imagengrande */
+
+p {
+    margin: 0;
+  }
+  
+  .imagen-grande {
+    gap: 10px;
+    width: 769px;
+    height: 506px;
+    margin-top: 10px;
+  }
